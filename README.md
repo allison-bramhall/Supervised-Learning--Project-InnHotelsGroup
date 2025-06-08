@@ -1,5 +1,5 @@
 # Supervised-Learning--Project-InnHotelsGroup
-Postgraduate project using supervised learning with classification to explore those likely to cancel hotel reservations
+Postgraduate project using supervised learning classification methods (logistic regression and decision tree methods) to identify those likely to cancel hotel reservations
 
 Includes application of the following skills 
 - Importing libraries
